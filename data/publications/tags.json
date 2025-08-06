@@ -1,0 +1,44 @@
+{
+  "tags": [
+    {
+      "id": "complex-activity",
+      "name": "Complex Activity Detection"
+    },
+    {
+      "id": "biomedical", 
+      "name": "Biomedical Image Analysis"
+    },
+    {
+      "id": "materials",
+      "name": "Materials Science"
+    },
+    {
+      "id": "biodiversity",
+      "name": "Biodiversity"
+    },
+    {
+      "id": "geospatial",
+      "name": "Geospatial Data Analysis"
+    },
+    {
+      "id": "computer-vision",
+      "name": "Computer Vision"
+    },
+    {
+      "id": "malware",
+      "name": "Malware Analysis"
+    },
+    {
+      "id": "cyberinfrastructure",
+      "name": "Cyberinfrastructure"
+    }, 
+    {
+      "id": "cell-analysis",
+      "name": "Cell Analysis"
+    },
+    {
+      "id": "forensics",
+      "name": "Media Forensics"
+    }
+  ]
+}
