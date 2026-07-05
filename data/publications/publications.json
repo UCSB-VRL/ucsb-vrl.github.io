@@ -21,7 +21,8 @@
       "abstract": "Scene-graph generation involves creating a structural representation of the relationships between objects in a scene by predicting subject-object-relation triplets from input data. Existing methods show poor performance in detecting triplets outside of a predefined set, primarily due to their reliance on dependent feature learning. To address this issue we propose DDS– a decoupled dynamic scene-graph generation network- that consists of two independent branches that can disentangle extracted features. The key innovation of the current paper is the decoupling of the features representing the relationships from those of the objects, which enables the detection of novel object-relationship combinations. The DDS model is evaluated on three datasets and outperforms previous methods by a significant margin, especially in detecting previously unseen triplets.",
       "pdf_link": "#",
       "doi_link": "https://doi.org/10.1109/WACV61041.2025.00936",
-      "category": "complex-activity"
+      "category": "recent",
+      "tags": ["complex-activity"]
     },
     {
       "id": 281,
